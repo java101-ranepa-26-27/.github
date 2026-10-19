@@ -18,7 +18,7 @@
 |---|---|
 | Лаба 1 | [java101-template](https://github.com/java101-ranepa-26-27/java101-template) |
 | Лаба 2 | [java101-lab2-template](https://github.com/java101-ranepa-26-27/java101-lab2-template) |
-| Лаба 3 | текст лабы появится позже |
+| Лаба 3 | [java101-lab3-template](https://github.com/java101-ranepa-26-27/java101-lab3-template) |
 | Лаба 4 | текст лабы появится позже |
 | Лаба 5 | текст лабы появится позже |
 | Лаба 6 | текст лабы появится позже |
