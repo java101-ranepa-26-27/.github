@@ -20,7 +20,7 @@
 | Лаба 2 | [java101-lab2-template](https://github.com/java101-ranepa-26-27/java101-lab2-template) |
 | Лаба 3 | [java101-lab3-template](https://github.com/java101-ranepa-26-27/java101-lab3-template) |
 | Лаба 4 | [java101-lab4-template](https://github.com/java101-ranepa-26-27/java101-lab4-template) |
-| Лаба 5 | текст лабы появится позже |
+| Лаба 5 | [java101-lab5-template](https://github.com/java101-ranepa-26-27/java101-lab5-template) |
 | Лаба 6 | текст лабы появится позже |
 
 ## Как сдавать работу
