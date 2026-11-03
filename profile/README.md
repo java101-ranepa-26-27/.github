@@ -8,7 +8,7 @@
 | Что | Ссылка |
 |---|---|
 | Ведомость: баллы и посещаемость | [Google Таблица](https://docs.google.com/spreadsheets/d/1jjMgmtPifIhIQbggPVg_GvZp0Jgu6Fe0yGwAdWpzajs/edit) |
-| Лекции | [lectures/Java_students.pdf](https://github.com/java101-ranepa-26-27/.github/blob/main/lectures/Java_students.pdf) |
+| Лекции | [Java_students.pdf](https://github.com/java101-ranepa-26-27/.github/blob/main/lectures/Java_students.pdf), [Java_advanced.pdf](https://github.com/java101-ranepa-26-27/.github/blob/main/lectures/Java_advanced.pdf) |
 | Варианты итогового проекта | [java101-final-project](https://github.com/java101-ranepa-26-27/java101-final-project) |
 | Правила оформления кода (do/donts) | [do-donts.md](https://github.com/java101-ranepa-26-27/java101-template/blob/main/do-donts.md) |
 
