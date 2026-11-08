@@ -22,7 +22,7 @@
 | Лаба 3 | [java101-lab3-template](https://github.com/java101-ranepa-26-27/java101-lab3-template) |
 | Лаба 4 | [java101-lab4-template](https://github.com/java101-ranepa-26-27/java101-lab4-template) |
 | Лаба 5 | [java101-lab5-template](https://github.com/java101-ranepa-26-27/java101-lab5-template) |
-| Лаба 6 | текст лабы появится позже |
+| Лаба 6 | [практика 6: каркас итогового проекта](https://github.com/java101-ranepa-26-27/.github/blob/main/labs/practice-06.md) |
 
 ## Как сдавать работу
 
